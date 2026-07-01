@@ -1,14 +1,9 @@
 <div align="center">
 
-# ⚡ Ing. Yeicker Colmenares
+# Russo
 **Computer Engineer | Software Developer**
 
 
-<p align="center">
-<a href="https://linkedin.com/in/yeickercolmenares" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:yeicker136@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@colmenares04"  /></a>
-<a href="https://discord.com/users/547063215599648778" target="blank"><img  align="center" src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
 
 ---
 <div align="left">
