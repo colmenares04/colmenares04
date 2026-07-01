@@ -48,11 +48,3 @@
     <img src="https://skillicons.dev/icons?i=py,js,ts,dart,flutter,postgres,git,vscode,flask,fastapi,react,nodejs&theme=dark" />
   </a>
 </div>
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=colmenares04&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
- 
-</div>
